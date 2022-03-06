@@ -1,0 +1,19 @@
+#logo{
+    justify-content: center;
+}
+
+#navbar{
+    flex-direction: column;
+    height: 350px;
+}
+#navbar ul{
+    flex-direction: column;
+}
+#makersection{
+flex-direction: column;
+height: 900px;
+}
+#sponsorsection{
+ overflow: hidden; 
+ height: 350px;  
+}
